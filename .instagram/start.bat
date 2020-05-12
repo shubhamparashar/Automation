@@ -1,0 +1,1 @@
+node "insta.js" "./credentials.json" "shubham_parashar__"
