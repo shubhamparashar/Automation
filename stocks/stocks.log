@@ -1,0 +1,1020 @@
+[2020-05-19T12:55:56.305] [INFO] price - -------------------setinterval started------------------------------
+[2020-05-19T12:56:01.944] [INFO] price - Stock name: Sensex
+                    present val: 30502.32
+                    start val  : 30568.41
+                    current pro: -0.21620359056948052
+                    total pro  : -0.21620359056948052
+[2020-05-19T12:56:27.086] [INFO] price - Stock name: Sensex
+                    present val: 30497.38
+                    start val  : 30568.41
+                    current pro: -0.016195489392278
+                    total pro  : -0.23236406473218213
+[2020-05-19T12:56:37.423] [INFO] price - Stock name: Sensex
+                    present val: 30497.38
+                    start val  : 30568.41
+                    current pro: -0.016195489392278
+                    total pro  : -0.23236406473218213
+[2020-05-19T12:56:57.420] [INFO] price - Stock name: Sensex
+                    present val: 30493.26
+                    start val  : 30568.41
+                    current pro: -0.02970265868301595
+                    total pro  : -0.2458420310379292
+[2020-05-19T12:57:18.287] [INFO] price - Stock name: Sensex
+                    present val: 30500.05
+                    start val  : 30568.41
+                    current pro: -0.007442056866495521
+                    total pro  : -0.22362955744181845
+[2020-05-19T12:57:37.463] [INFO] price - Stock name: Sensex
+                    present val: 30500.05
+                    start val  : 30568.41
+                    current pro: -0.007442056866495521
+                    total pro  : -0.22362955744181845
+[2020-05-19T12:57:57.455] [INFO] price - Stock name: Sensex
+                    present val: 30499.37
+                    start val  : 30568.41
+                    current pro: -0.009671395487296466
+                    total pro  : -0.22585407615247527
+[2020-05-19T12:58:17.545] [INFO] price - Stock name: Sensex
+                    present val: 30506.62
+                    start val  : 30568.41
+                    current pro: 0.014097288337409326
+                    total pro  : -0.20213678107562963
+[2020-05-19T12:58:37.580] [INFO] price - Stock name: Sensex
+                    present val: 30516.61
+                    start val  : 30568.41
+                    current pro: 0.04684889542828504
+                    total pro  : -0.1694559841352536
+[2020-05-19T12:59:03.596] [INFO] price - Stock name: Sensex
+                    present val: 30507.33
+                    start val  : 30568.41
+                    current pro: 0.01642498013266544
+                    total pro  : -0.19981412183361225
+[2020-05-19T12:59:17.484] [INFO] price - Stock name: Sensex
+                    present val: 30507.33
+                    start val  : 30568.41
+                    current pro: 0.01642498013266544
+                    total pro  : -0.19981412183361225
+[2020-05-19T12:59:37.485] [INFO] price - Stock name: Sensex
+                    present val: 30486.78
+                    start val  : 30568.41
+                    current pro: -0.05094694436357914
+                    total pro  : -0.2670403858100602
+[2020-05-19T12:59:57.951] [INFO] price - Stock name: Sensex
+                    present val: 30492.47
+                    start val  : 30568.41
+                    current pro: 0.018663827403229624
+                    total pro  : -0.24842639836353508
+[2020-05-19T13:00:17.780] [INFO] price - Stock name: Sensex
+                    present val: 30492.91
+                    start val  : 30568.41
+                    current pro: 0.020107075919467452
+                    total pro  : -0.2469870039037032
+[2020-05-19T13:00:37.477] [INFO] price - Stock name: Sensex
+                    present val: 30483.16
+                    start val  : 30568.41
+                    current pro: -0.011873999156352299
+                    total pro  : -0.2788826765932543
+[2020-05-19T13:00:57.703] [INFO] price - Stock name: Sensex
+                    present val: 30483.16
+                    start val  : 30568.41
+                    current pro: -0.011873999156352299
+                    total pro  : -0.2788826765932543
+[2020-05-19T13:01:17.661] [INFO] price - Stock name: Sensex
+                    present val: 30458.62
+                    start val  : 30568.41
+                    current pro: -0.09236790503949534
+                    total pro  : -0.3591616312395734
+[2020-05-19T13:01:37.494] [INFO] price - Stock name: Sensex
+                    present val: 30452.10
+                    start val  : 30568.41
+                    current pro: -0.02140609128056503
+                    total pro  : -0.3804908400535105
+[2020-05-19T13:02:03.742] [INFO] price - Stock name: Sensex
+                    present val: 30474.13
+                    start val  : 30568.41
+                    current pro: 0.05092154536220629
+                    total pro  : -0.3084229765303424
+[2020-05-19T13:02:18.192] [INFO] price - Stock name: Sensex
+                    present val: 30474.13
+                    start val  : 30568.41
+                    current pro: 0
+                    total pro  : -0.3084229765303424
+[2020-05-19T13:02:38.024] [INFO] price - Stock name: Sensex
+                    present val: 30464.97
+                    start val  : 30568.41
+                    current pro: -0.0300582822216741
+                    total pro  : -0.3383885521032945
+[2020-05-19T13:02:58.015] [INFO] price - Stock name: Sensex
+                    present val: 30464.69
+                    start val  : 30568.41
+                    current pro: -0.030977094341995415
+                    total pro  : -0.3393045303959256
+[2020-05-19T13:03:18.059] [INFO] price - Stock name: Sensex
+                    present val: 30480.49
+                    start val  : 30568.41
+                    current pro: 0.020870161018544522
+                    total pro  : -0.2876171838836179
+[2020-05-19T13:03:38.833] [INFO] price - Stock name: Sensex
+                    present val: 30474.64
+                    start val  : 30568.41
+                    current pro: 0.00167355064770807
+                    total pro  : -0.30675458749735574
+[2020-05-19T13:03:58.695] [INFO] price - Stock name: Sensex
+                    present val: 30474.64
+                    start val  : 30568.41
+                    current pro: 0.00167355064770807
+                    total pro  : -0.30675458749735574
+[2020-05-19T13:04:18.085] [INFO] price - Stock name: Sensex
+                    present val: 30490.64
+                    start val  : 30568.41
+                    current pro: 0.05417710037989074
+                    total pro  : -0.25441297077604114
+[2020-05-19T13:04:38.021] [INFO] price - Stock name: Sensex
+                    present val: 30496.79
+                    start val  : 30568.41
+                    current pro: 0.020170124339802167
+                    total pro  : -0.23429416184878107
+[2020-05-19T13:05:01.221] [INFO] price - Stock name: Sensex
+                    present val: 30496.07
+                    start val  : 30568.41
+                    current pro: 0.017808743929285484
+                    total pro  : -0.23664953460124405
+[2020-05-19T13:05:18.103] [INFO] price - Stock name: Sensex
+                    present val: 30477.90
+                    start val  : 30568.41
+                    current pro: -0.041783314486012635
+                    total pro  : -0.2960899830903812
+[2020-05-19T13:05:38.231] [INFO] price - Stock name: Sensex
+                    present val: 30458.20
+                    start val  : 30568.41
+                    current pro: -0.1063933062736587
+                    total pro  : -0.3605355986785022
+[2020-05-19T13:05:58.535] [INFO] price - Stock name: Sensex
+                    present val: 30468.43
+                    start val  : 30568.41
+                    current pro: 0.03358701433439784
+                    total pro  : -0.3270696774873131
+[2020-05-19T13:06:18.047] [INFO] price - Stock name: Sensex
+                    present val: 30441.99
+                    start val  : 30568.41
+                    current pro: -0.053220479214133226
+                    total pro  : -0.41356419911928116
+[2020-05-19T13:06:38.205] [INFO] price - Stock name: Sensex
+                    present val: 30441.99
+                    start val  : 30568.41
+                    current pro: 0
+                    total pro  : -0.41356419911928116
+[2020-05-19T13:06:58.233] [INFO] price - Stock name: Sensex
+                    present val: 30400.74
+                    start val  : 30568.41
+                    current pro: -0.13550362509152653
+                    total pro  : -0.5485074297289203
+[2020-05-19T13:07:19.191] [INFO] price - Stock name: Sensex
+                    present val: 30388.67
+                    start val  : 30568.41
+                    current pro: -0.039702980914291384
+                    total pro  : -0.587992636843073
+[2020-05-19T13:07:38.395] [INFO] price - Stock name: Sensex
+                    present val: 30399.59
+                    start val  : 30568.41
+                    current pro: -0.003782802655466463
+                    total pro  : -0.5522694834307695
+[2020-05-19T13:07:58.410] [INFO] price - Stock name: Sensex
+                    present val: 30397.33
+                    start val  : 30568.41
+                    current pro: -0.011216832221846752
+                    total pro  : -0.55966273679265
+[2020-05-19T13:08:18.358] [INFO] price - Stock name: Sensex
+                    present val: 30397.33
+                    start val  : 30568.41
+                    current pro: -0.011216832221846752
+                    total pro  : -0.55966273679265
+[2020-05-19T13:08:38.354] [INFO] price - Stock name: Sensex
+                    present val: 30393.53
+                    start val  : 30568.41
+                    current pro: -0.02371652795294708
+                    total pro  : -0.5720938707639718
+[2020-05-19T13:08:58.597] [INFO] price - Stock name: Sensex
+                    present val: 30395.09
+                    start val  : 30568.41
+                    current pro: -0.018585073915968673
+                    total pro  : -0.5669905631336393
+[2020-05-19T13:09:18.192] [INFO] price - Stock name: Sensex
+                    present val: 30395.09
+                    start val  : 30568.41
+                    current pro: -0.018585073915968673
+                    total pro  : -0.5669905631336393
+[2020-05-19T13:09:38.256] [INFO] price - Stock name: Sensex
+                    present val: 30391.68
+                    start val  : 30568.41
+                    current pro: -0.029801906137815425
+                    total pro  : -0.578145870197369
+[2020-05-19T13:09:58.270] [INFO] price - Stock name: Sensex
+                    present val: 30398.30
+                    start val  : 30568.41
+                    current pro: -0.0080261204168133
+                    total pro  : -0.5564895262789284
+[2020-05-19T13:10:18.322] [INFO] price - Stock name: Sensex
+                    present val: 30409.57
+                    start val  : 30568.41
+                    current pro: 0.029045345606712562
+                    total pro  : -0.519621400000851
+[2020-05-19T13:10:38.271] [INFO] price - Stock name: Sensex
+                    present val: 30379.51
+                    start val  : 30568.41
+                    current pro: -0.06983382641344651
+                    total pro  : -0.6179582124160251
+[2020-05-19T13:10:58.244] [INFO] price - Stock name: Sensex
+                    present val: 30379.51
+                    start val  : 30568.41
+                    current pro: 0
+                    total pro  : -0.6179582124160251
+[2020-05-19T13:11:20.189] [INFO] price - Stock name: Sensex
+                    present val: 30352.98
+                    start val  : 30568.41
+                    current pro: -0.08732859746585392
+                    total pro  : -0.704747155642051
+[2020-05-20T15:30:38.613] [INFO] price - -------------------setinterval started------------------------------
+[2020-05-20T15:30:41.238] [INFO] price - Stock name: Sensex
+                    present val: 30860.01
+                    start val  : 30860.01
+                    current pro: 0
+                    total pro  : 0
+[2020-05-20T15:30:59.915] [INFO] price - Stock name: Sensex
+                    present val: 30860.01
+                    start val  : 30860.01
+                    current pro: 0
+                    total pro  : 0
+[2020-05-20T15:31:19.924] [INFO] price - Stock name: Sensex
+                    present val: 30818.61
+                    start val  : 30860.01
+                    current pro: -0.1341542015054364
+                    total pro  : -0.1341542015054364
+[2020-05-20T15:31:39.927] [INFO] price - Stock name: Sensex
+                    present val: 30818.61
+                    start val  : 30860.01
+                    current pro: 0
+                    total pro  : -0.1341542015054364
+[2020-05-20T15:31:59.930] [INFO] price - Stock name: Sensex
+                    present val: 30818.61
+                    start val  : 30860.01
+                    current pro: 0
+                    total pro  : -0.1341542015054364
+[2020-05-21T11:11:28.814] [INFO] price - -------------------setinterval started------------------------------
+[2020-05-21T11:11:35.614] [INFO] price - Stock name: Sensex
+                    present val: 31032.02
+                    start val  : 31036.38
+                    current pro: -0.01404803008598484
+                    total pro  : -0.01404803008598484
+[2020-05-21T11:11:52.008] [INFO] price - Stock name: Sensex
+                    present val: 31032.02
+                    start val  : 31036.38
+                    current pro: -0.01404803008598484
+                    total pro  : -0.01404803008598484
+[2020-05-21T11:12:11.774] [INFO] price - Stock name: Sensex
+                    present val: 31034.97
+                    start val  : 31036.38
+                    current pro: -0.004543055601200444
+                    total pro  : -0.004543055601200444
+[2020-05-21T11:12:31.867] [INFO] price - Stock name: Sensex
+                    present val: 31037.53
+                    start val  : 31036.38
+                    current pro: 0.003705329036433428
+                    total pro  : 0.003705329036433428
+[2020-05-21T11:12:51.796] [INFO] price - Stock name: Sensex
+                    present val: 31043.87
+                    start val  : 31036.38
+                    current pro: 0.024132969115592613
+                    total pro  : 0.024132969115592613
+[2020-05-21T11:13:11.801] [INFO] price - Stock name: Sensex
+                    present val: 31045.58
+                    start val  : 31036.38
+                    current pro: 0.02964263229152603
+                    total pro  : 0.02964263229152603
+[2020-05-21T11:13:31.831] [INFO] price - Stock name: Sensex
+                    present val: 31045.58
+                    start val  : 31036.38
+                    current pro: 0.02964263229152603
+                    total pro  : 0.02964263229152603
+[2020-05-21T11:13:51.792] [INFO] price - Stock name: Sensex
+                    present val: 31034.16
+                    start val  : 31036.38
+                    current pro: -0.0071528960529583805
+                    total pro  : -0.0071528960529583805
+[2020-05-21T11:14:11.837] [INFO] price - Stock name: Sensex
+                    present val: 31036.33
+                    start val  : 31036.38
+                    current pro: -0.00016110126245158876
+                    total pro  : -0.00016110126245158876
+[2020-05-21T11:14:31.789] [INFO] price - Stock name: Sensex
+                    present val: 31038.95
+                    start val  : 31036.38
+                    current pro: 0.008280604890131223
+                    total pro  : 0.008280604890131223
+[2020-05-21T11:14:51.842] [INFO] price - Stock name: Sensex
+                    present val: 31040.24
+                    start val  : 31036.38
+                    current pro: 0.012437017461445508
+                    total pro  : 0.012437017461445508
+[2020-05-21T11:15:11.863] [INFO] price - Stock name: Sensex
+                    present val: 31040.24
+                    start val  : 31036.38
+                    current pro: 0.012437017461445508
+                    total pro  : 0.012437017461445508
+[2020-05-21T11:15:31.828] [INFO] price - Stock name: Sensex
+                    present val: 31035.86
+                    start val  : 31036.38
+                    current pro: -0.0016754531295223108
+                    total pro  : -0.0016754531295223108
+[2020-05-21T11:15:51.802] [INFO] price - Stock name: Sensex
+                    present val: 31055.83
+                    start val  : 31036.38
+                    current pro: 0.06266839109458232
+                    total pro  : 0.06266839109458232
+[2020-05-21T11:16:11.858] [INFO] price - Stock name: Sensex
+                    present val: 31060.43
+                    start val  : 31036.38
+                    current pro: 0.014812033682559908
+                    total pro  : 0.07748970724033946
+[2020-05-21T11:16:32.085] [INFO] price - Stock name: Sensex
+                    present val: 31059.58
+                    start val  : 31036.38
+                    current pro: 0.01207502745861244
+                    total pro  : 0.0747509857786273
+[2020-05-21T11:16:52.082] [INFO] price - Stock name: Sensex
+                    present val: 31059.58
+                    start val  : 31036.38
+                    current pro: 0.01207502745861244
+                    total pro  : 0.0747509857786273
+[2020-05-21T11:17:11.981] [INFO] price - Stock name: Sensex
+                    present val: 31064.87
+                    start val  : 31036.38
+                    current pro: 0.02910886619355282
+                    total pro  : 0.09179549934624451
+[2020-05-21T11:17:32.262] [INFO] price - Stock name: Sensex
+                    present val: 31065.42
+                    start val  : 31036.38
+                    current pro: 0.030879870220813635
+                    total pro  : 0.09356761323323542
+[2020-05-21T11:17:52.233] [INFO] price - Stock name: Sensex
+                    present val: 31055.57
+                    start val  : 31036.38
+                    current pro: -0.0008372019038036893
+                    total pro  : 0.0618306645298153
+[2020-05-21T11:18:12.258] [INFO] price - Stock name: Sensex
+                    present val: 31065.90
+                    start val  : 31036.38
+                    current pro: 0.03242547373552633
+                    total pro  : 0.0951141853528035
+[2020-05-21T11:18:36.235] [INFO] price - Stock name: Sensex
+                    present val: 31064.77
+                    start val  : 31036.38
+                    current pro: 0.02878686546132784
+                    total pro  : 0.09147329682134134
+[2020-05-21T11:18:52.268] [INFO] price - Stock name: Sensex
+                    present val: 31064.77
+                    start val  : 31036.38
+                    current pro: 0.02878686546132784
+                    total pro  : 0.09147329682134134
+[2020-05-21T11:19:12.248] [INFO] price - Stock name: Sensex
+                    present val: 31068.16
+                    start val  : 31036.38
+                    current pro: 0.03970269028391161
+                    total pro  : 0.10239596241571611
+[2020-05-21T11:19:32.262] [INFO] price - Stock name: Sensex
+                    present val: 31064.03
+                    start val  : 31036.38
+                    current pro: 0.026404060042823165
+                    total pro  : 0.08908899813701797
+[2020-05-21T11:19:52.222] [INFO] price - Stock name: Sensex
+                    present val: 31063.44
+                    start val  : 31036.38
+                    current pro: 0.02450425572266767
+                    total pro  : 0.08718800324006108
+[2020-05-21T11:20:12.202] [INFO] price - Stock name: Sensex
+                    present val: 31051.70
+                    start val  : 31036.38
+                    current pro: -0.013298630241088448
+                    total pro  : 0.04936142681588416
+[2020-05-21T11:20:32.233] [INFO] price - Stock name: Sensex
+                    present val: 31051.70
+                    start val  : 31036.38
+                    current pro: -0.013298630241088448
+                    total pro  : 0.04936142681588416
+[2020-05-21T11:20:52.237] [INFO] price - Stock name: Sensex
+                    present val: 31056.91
+                    start val  : 31036.38
+                    current pro: 0.003477607908074291
+                    total pro  : 0.06614817836358117
+[2020-05-21T11:21:12.238] [INFO] price - Stock name: Sensex
+                    present val: 31052.62
+                    start val  : 31036.38
+                    current pro: -0.010336223504581151
+                    total pro  : 0.0523256900450309
+[2020-05-21T11:21:36.158] [INFO] price - Stock name: Sensex
+                    present val: 31050.04
+                    start val  : 31036.38
+                    current pro: -0.01864384239610042
+                    total pro  : 0.04401286490241405
+[2020-05-21T11:21:52.382] [INFO] price - Stock name: Sensex
+                    present val: 31050.04
+                    start val  : 31036.38
+                    current pro: -0.01864384239610042
+                    total pro  : 0.04401286490241405
+[2020-05-21T11:22:12.343] [INFO] price - Stock name: Sensex
+                    present val: 31047.52
+                    start val  : 31036.38
+                    current pro: -0.026758260848289382
+                    total pro  : 0.035893361274734414
+[2020-05-21T11:22:32.350] [INFO] price - Stock name: Sensex
+                    present val: 31044.68
+                    start val  : 31036.38
+                    current pro: -0.03590308164361234
+                    total pro  : 0.026742809567350548
+[2020-05-21T11:22:52.348] [INFO] price - Stock name: Sensex
+                    present val: 31031.18
+                    start val  : 31036.38
+                    current pro: -0.07937318049461713
+                    total pro  : -0.016754531295211386
+[2020-05-21T11:23:12.232] [INFO] price - Stock name: Sensex
+                    present val: 31031.18
+                    start val  : 31036.38
+                    current pro: 0
+                    total pro  : -0.016754531295211386
+[2020-05-21T11:23:32.396] [INFO] price - Stock name: Sensex
+                    present val: 31028.17
+                    start val  : 31036.38
+                    current pro: -0.00969992117606239
+                    total pro  : -0.02645282729494472
+[2020-05-21T11:23:52.284] [INFO] price - Stock name: Sensex
+                    present val: 31035.92
+                    start val  : 31036.38
+                    current pro: 0.015274958928400282
+                    total pro  : -0.001482131614585093
+[2020-05-21T11:24:12.239] [INFO] price - Stock name: Sensex
+                    present val: 31035.80
+                    start val  : 31036.38
+                    current pro: 0.014888251107431241
+                    total pro  : -0.0018687746444712504
+[2020-05-21T11:24:34.740] [INFO] price - Stock name: Sensex
+                    present val: 31049.43
+                    start val  : 31036.38
+                    current pro: 0.05881181443954113
+                    total pro  : 0.042047429500474194
+[2020-05-21T11:24:52.305] [INFO] price - Stock name: Sensex
+                    present val: 31038.84
+                    start val  : 31036.38
+                    current pro: -0.03410690631035786
+                    total pro  : 0.007926182112730695
+[2020-05-21T11:25:12.357] [INFO] price - Stock name: Sensex
+                    present val: 31041.55
+                    start val  : 31036.38
+                    current pro: -0.02537888779279046
+                    total pro  : 0.016657870537731056
+[2020-05-21T11:25:32.309] [INFO] price - Stock name: Sensex
+                    present val: 31041.45
+                    start val  : 31036.38
+                    current pro: -0.025700954896755154
+                    total pro  : 0.01633566801282788
+[2020-05-21T11:25:52.588] [INFO] price - Stock name: Sensex
+                    present val: 31042.08
+                    start val  : 31036.38
+                    current pro: -0.023671932141744775
+                    total pro  : 0.018365543919750715
+[2020-05-21T11:26:12.250] [INFO] price - Stock name: Sensex
+                    present val: 31042.08
+                    start val  : 31036.38
+                    current pro: -0.023671932141744775
+                    total pro  : 0.018365543919750715
+[2020-05-21T11:26:32.498] [INFO] price - Stock name: Sensex
+                    present val: 31050.21
+                    start val  : 31036.38
+                    current pro: 0.002512123410957418
+                    total pro  : 0.0445606091947518
+[2020-05-21T11:26:52.299] [INFO] price - Stock name: Sensex
+                    present val: 31056.34
+                    start val  : 31036.38
+                    current pro: 0.02225483688428372
+                    total pro  : 0.06431162397160728
+[2020-05-21T11:27:12.258] [INFO] price - Stock name: Sensex
+                    present val: 31059.52
+                    start val  : 31036.38
+                    current pro: 0.03249657079051096
+                    total pro  : 0.07455766426367835
+[2020-05-21T11:27:32.492] [INFO] price - Stock name: Sensex
+                    present val: 31062.17
+                    start val  : 31036.38
+                    current pro: 0.04103134904569251
+                    total pro  : 0.08309603117372978
+[2020-05-21T11:27:52.429] [INFO] price - Stock name: Sensex
+                    present val: 31065.94
+                    start val  : 31036.38
+                    current pro: 0.053173278865339554
+                    total pro  : 0.09524306636275774
+[2020-05-21T11:28:12.302] [INFO] price - Stock name: Sensex
+                    present val: 31062.01
+                    start val  : 31036.38
+                    current pro: -0.012650510494774314
+                    total pro  : 0.08258050713387767
+[2020-05-21T11:28:32.377] [INFO] price - Stock name: Sensex
+                    present val: 31065.25
+                    start val  : 31036.38
+                    current pro: -0.002221081995261339
+                    total pro  : 0.09301986894089768
+[2020-05-21T11:28:53.077] [INFO] price - Stock name: Sensex
+                    present val: 31061.80
+                    start val  : 31036.38
+                    current pro: -0.013326491971591452
+                    total pro  : 0.08190388183157395
+[2020-05-21T11:29:12.279] [INFO] price - Stock name: Sensex
+                    present val: 31061.80
+                    start val  : 31036.38
+                    current pro: -0.013326491971591452
+                    total pro  : 0.08190388183157395
+[2020-05-21T11:29:32.285] [INFO] price - Stock name: Sensex
+                    present val: 31068.18
+                    start val  : 31036.38
+                    current pro: 0.007210469086084634
+                    total pro  : 0.10246040292069909
+[2020-05-21T11:29:52.346] [INFO] price - Stock name: Sensex
+                    present val: 31059.52
+                    start val  : 31036.38
+                    current pro: -0.020665719434204324
+                    total pro  : 0.07455766426367835
+[2020-05-21T11:30:12.287] [INFO] price - Stock name: Sensex
+                    present val: 31061.92
+                    start val  : 31036.38
+                    current pro: -0.012940216841983331
+                    total pro  : 0.08229052486146012
+[2020-05-21T11:30:33.094] [INFO] price - Stock name: Sensex
+                    present val: 31070.41
+                    start val  : 31036.38
+                    current pro: 0.014388748578028429
+                    total pro  : 0.1096455192261431
+[2020-05-21T11:30:52.395] [INFO] price - Stock name: Sensex
+                    present val: 31068.87
+                    start val  : 31036.38
+                    current pro: 0.009431551081345973
+                    total pro  : 0.10468360034255916
+[2020-05-21T11:31:12.320] [INFO] price - Stock name: Sensex
+                    present val: 31065.83
+                    start val  : 31036.38
+                    current pro: -0.00035408553546728056
+                    total pro  : 0.09488864358536893
+[2020-05-21T11:31:32.332] [INFO] price - Stock name: Sensex
+                    present val: 31061.36
+                    start val  : 31036.38
+                    current pro: -0.014742834113495707
+                    total pro  : 0.08048619072198357
+[2020-05-21T11:31:52.477] [INFO] price - Stock name: Sensex
+                    present val: 31061.36
+                    start val  : 31036.38
+                    current pro: -0.014742834113495707
+                    total pro  : 0.08048619072198357
+[2020-05-21T11:32:12.470] [INFO] price - Stock name: Sensex
+                    present val: 31065.28
+                    start val  : 31036.38
+                    current pro: -0.002124513212862236
+                    total pro  : 0.09311652969836628
+[2020-05-21T11:32:32.458] [INFO] price - Stock name: Sensex
+                    present val: 31062.72
+                    start val  : 31036.38
+                    current pro: -0.010365049311231292
+                    total pro  : 0.08486814506073243
+[2020-05-21T11:32:53.959] [INFO] price - Stock name: Sensex
+                    present val: 31063.75
+                    start val  : 31036.38
+                    current pro: -0.007049521115403849
+                    total pro  : 0.08818683106727969
+[2020-05-21T11:33:12.660] [INFO] price - Stock name: Sensex
+                    present val: 31077.13
+                    start val  : 31036.38
+                    current pro: 0.03602015583627062
+                    total pro  : 0.13129752889995547
+[2020-05-21T11:33:32.628] [INFO] price - Stock name: Sensex
+                    present val: 31077.13
+                    start val  : 31036.38
+                    current pro: 0.03602015583627062
+                    total pro  : 0.13129752889995547
+[2020-05-21T11:33:54.602] [INFO] price - Stock name: Sensex
+                    present val: 31084.45
+                    start val  : 31036.38
+                    current pro: 0.05958293874256513
+                    total pro  : 0.15488275372321034
+[2020-05-21T11:34:13.132] [INFO] price - Stock name: Sensex
+                    present val: 31086.59
+                    start val  : 31036.38
+                    current pro: 0.006884471174492127
+                    total pro  : 0.16177788775623678
+[2020-05-21T11:34:34.064] [INFO] price - Stock name: Sensex
+                    present val: 31083.76
+                    start val  : 31036.38
+                    current pro: -0.0022197593973910692
+                    total pro  : 0.15265955630133857
+[2020-05-21T11:34:53.189] [INFO] price - Stock name: Sensex
+                    present val: 31083.76
+                    start val  : 31036.38
+                    current pro: -0.0022197593973910692
+                    total pro  : 0.15265955630133857
+[2020-05-21T11:35:12.941] [INFO] price - Stock name: Sensex
+                    present val: 31069.11
+                    start val  : 31036.38
+                    current pro: -0.049349433559223804
+                    total pro  : 0.10545688640234319
+[2020-05-21T11:35:33.138] [INFO] price - Stock name: Sensex
+                    present val: 31085.53
+                    start val  : 31036.38
+                    current pro: 0.0034744060132899514
+                    total pro  : 0.1583625409922092
+[2020-05-21T11:35:53.169] [INFO] price - Stock name: Sensex
+                    present val: 31078.53
+                    start val  : 31036.38
+                    current pro: -0.019044892221036214
+                    total pro  : 0.13580836424865855
+[2020-05-21T11:36:12.787] [INFO] price - Stock name: Sensex
+                    present val: 31078.53
+                    start val  : 31036.38
+                    current pro: -0.019044892221036214
+                    total pro  : 0.13580836424865855
+[2020-05-21T11:36:32.772] [INFO] price - Stock name: Sensex
+                    present val: 31081.84
+                    start val  : 31036.38
+                    current pro: -0.00839648119880063
+                    total pro  : 0.14647326782311315
+[2020-05-21T11:36:58.095] [INFO] price - Stock name: Sensex
+                    present val: 31087.77
+                    start val  : 31036.38
+                    current pro: 0.010680581448279474
+                    total pro  : 0.16557987755015055
+[2020-05-21T11:37:13.433] [INFO] price - Stock name: Sensex
+                    present val: 31088.27
+                    start val  : 31036.38
+                    current pro: 0.012289102750731343
+                    total pro  : 0.16719089017468988
+[2020-05-21T11:37:32.780] [INFO] price - Stock name: Sensex
+                    present val: 31088.27
+                    start val  : 31036.38
+                    current pro: 0.012289102750731343
+                    total pro  : 0.16719089017468988
+[2020-05-21T11:37:52.683] [INFO] price - Stock name: Sensex
+                    present val: 31084.95
+                    start val  : 31036.38
+                    current pro: 0.0016085213024518688
+                    total pro  : 0.15649376634774967
+[2020-05-21T11:38:12.931] [INFO] price - Stock name: Sensex
+                    present val: 31085.22
+                    start val  : 31036.38
+                    current pro: 0.0024771228057772826
+                    total pro  : 0.1573637131650023
+[2020-05-21T11:38:33.014] [INFO] price - Stock name: Sensex
+                    present val: 31092.42
+                    start val  : 31036.38
+                    current pro: 0.025639829561074835
+                    total pro  : 0.1805622949583593
+[2020-05-21T11:38:53.473] [INFO] price - Stock name: Sensex
+                    present val: 31083.04
+                    start val  : 31036.38
+                    current pro: -0.0045360300729138025
+                    total pro  : 0.15033969812200987
+[2020-05-21T11:39:13.090] [INFO] price - Stock name: Sensex
+                    present val: 31083.04
+                    start val  : 31036.38
+                    current pro: -0.0045360300729138025
+                    total pro  : 0.15033969812200987
+[2020-05-21T11:39:32.969] [INFO] price - Stock name: Sensex
+                    present val: 31079.40
+                    start val  : 31036.38
+                    current pro: -0.016246065154761534
+                    total pro  : 0.13861152621536543
+[2020-05-21T11:39:58.678] [INFO] price - Stock name: Sensex
+                    present val: 31061.38
+                    start val  : 31036.38
+                    current pro: -0.0742171728951283
+                    total pro  : 0.08055063122696654
+[2020-05-21T11:40:13.192] [INFO] price - Stock name: Sensex
+                    present val: 31061.38
+                    start val  : 31036.38
+                    current pro: 0
+                    total pro  : 0.08055063122696654
+[2020-05-21T11:40:33.077] [INFO] price - Stock name: Sensex
+                    present val: 31063.08
+                    start val  : 31036.38
+                    current pro: 0.0054730343597120526
+                    total pro  : 0.0860280741504026
+[2020-05-21T11:40:53.138] [INFO] price - Stock name: Sensex
+                    present val: 31060.55
+                    start val  : 31036.38
+                    current pro: -0.0026721285403344805
+                    total pro  : 0.07787635027022563
+[2020-05-21T11:41:13.187] [INFO] price - Stock name: Sensex
+                    present val: 31062.62
+                    start val  : 31036.38
+                    current pro: 0.00399209565060523
+                    total pro  : 0.08454594253581753
+[2020-05-21T11:41:33.365] [INFO] price - Stock name: Sensex
+                    present val: 31062.27
+                    start val  : 31036.38
+                    current pro: 0.0028652944589049744
+                    total pro  : 0.08341823369864468
+[2020-05-21T11:41:53.126] [INFO] price - Stock name: Sensex
+                    present val: 31062.27
+                    start val  : 31036.38
+                    current pro: 0.0028652944589049744
+                    total pro  : 0.08341823369864468
+[2020-05-21T11:42:13.315] [INFO] price - Stock name: Sensex
+                    present val: 31061.60
+                    start val  : 31036.38
+                    current pro: 0.0007082750347779982
+                    total pro  : 0.08125947678175588
+[2020-05-21T11:42:33.094] [INFO] price - Stock name: Sensex
+                    present val: 31063.57
+                    start val  : 31036.38
+                    current pro: 0.007050556028092411
+                    total pro  : 0.08760686652244459
+[2020-05-21T11:42:58.119] [INFO] price - Stock name: Sensex
+                    present val: 31068.19
+                    start val  : 31036.38
+                    current pro: 0.021924331758594342
+                    total pro  : 0.10249262317318472
+[2020-05-21T11:43:13.139] [INFO] price - Stock name: Sensex
+                    present val: 31068.19
+                    start val  : 31036.38
+                    current pro: 0.021924331758594342
+                    total pro  : 0.10249262317318472
+[2020-05-21T11:43:33.129] [INFO] price - Stock name: Sensex
+                    present val: 31070.10
+                    start val  : 31036.38
+                    current pro: 0.02807344683332655
+                    total pro  : 0.10864669139892451
+[2020-05-21T11:43:53.026] [INFO] price - Stock name: Sensex
+                    present val: 31074.58
+                    start val  : 31036.38
+                    current pro: 0.04249650208716009
+                    total pro  : 0.12308136451480722
+[2020-05-21T11:44:13.241] [INFO] price - Stock name: Sensex
+                    present val: 31075.46
+                    start val  : 31036.38
+                    current pro: 0.04532960222629551
+                    total pro  : 0.125916746733988
+[2020-05-21T11:44:33.077] [INFO] price - Stock name: Sensex
+                    present val: 31075.46
+                    start val  : 31036.38
+                    current pro: 0.04532960222629551
+                    total pro  : 0.125916746733988
+[2020-05-21T11:44:53.290] [INFO] price - Stock name: Sensex
+                    present val: 31073.35
+                    start val  : 31036.38
+                    current pro: 0.038536600756301
+                    total pro  : 0.11911827345843017
+[2020-05-21T11:45:13.233] [INFO] price - Stock name: Sensex
+                    present val: 31068.26
+                    start val  : 31036.38
+                    current pro: 0.022149691996934392
+                    total pro  : 0.10271816494061929
+[2020-05-21T11:45:33.147] [INFO] price - Stock name: Sensex
+                    present val: 31063.29
+                    start val  : 31036.38
+                    current pro: 0.006149115074732205
+                    total pro  : 0.08670469945270633
+[2020-05-21T11:45:56.406] [INFO] price - Stock name: Sensex
+                    present val: 31072.29
+                    start val  : 31036.38
+                    current pro: 0.03512400286143067
+                    total pro  : 0.11570292669441427
+[2020-05-21T11:46:13.118] [INFO] price - Stock name: Sensex
+                    present val: 31059.19
+                    start val  : 31036.38
+                    current pro: -0.007050556028104123
+                    total pro  : 0.07349439593147677
+[2020-05-21T11:46:33.273] [INFO] price - Stock name: Sensex
+                    present val: 31066.21
+                    start val  : 31036.38
+                    current pro: 0.015549856445522085
+                    total pro  : 0.09611301318001038
+[2020-05-21T11:46:53.139] [INFO] price - Stock name: Sensex
+                    present val: 31064.08
+                    start val  : 31036.38
+                    current pro: 0.008692466336011883
+                    total pro  : 0.08925009939948128
+[2020-05-21T11:47:13.080] [INFO] price - Stock name: Sensex
+                    present val: 31061.65
+                    start val  : 31036.38
+                    current pro: 0.0008692466336023595
+                    total pro  : 0.08142057804421919
+[2020-05-21T11:47:33.243] [INFO] price - Stock name: Sensex
+                    present val: 31061.65
+                    start val  : 31036.38
+                    current pro: 0.0008692466336023595
+                    total pro  : 0.08142057804421919
+[2020-05-21T11:47:53.274] [INFO] price - Stock name: Sensex
+                    present val: 31064.67
+                    start val  : 31036.38
+                    current pro: 0.010591931202017537
+                    total pro  : 0.09115109429642643
+[2020-05-21T11:48:13.102] [INFO] price - Stock name: Sensex
+                    present val: 31056.49
+                    start val  : 31036.38
+                    current pro: -0.015743022364104294
+                    total pro  : 0.06479492775897376
+[2020-05-21T11:48:33.201] [INFO] price - Stock name: Sensex
+                    present val: 31036.47
+                    start val  : 31036.38
+                    current pro: -0.08019605052962828
+                    total pro  : 0.0002899822724175484
+[2020-05-21T11:48:53.295] [INFO] price - Stock name: Sensex
+                    present val: 31028.87
+                    start val  : 31036.38
+                    current pro: -0.02448732088411531
+                    total pro  : -0.024197409620587314
+[2020-05-21T11:49:14.079] [INFO] price - Stock name: Sensex
+                    present val: 31031.03
+                    start val  : 31036.38
+                    current pro: -0.01752776652757974
+                    total pro  : -0.017237835082577875
+[2020-05-21T11:49:33.228] [INFO] price - Stock name: Sensex
+                    present val: 31035.08
+                    start val  : 31036.38
+                    current pro: -0.004478602109065296
+                    total pro  : -0.004188632823799916
+[2020-05-21T11:49:53.324] [INFO] price - Stock name: Sensex
+                    present val: 31033.09
+                    start val  : 31036.38
+                    current pro: -0.010890413761619857
+                    total pro  : -0.01060046306947161
+[2020-05-21T11:50:13.158] [INFO] price - Stock name: Sensex
+                    present val: 31033.09
+                    start val  : 31036.38
+                    current pro: -0.010890413761619857
+                    total pro  : -0.01060046306947161
+[2020-05-21T11:50:33.231] [INFO] price - Stock name: Sensex
+                    present val: 31015.05
+                    start val  : 31036.38
+                    current pro: -0.06901558070232179
+                    total pro  : -0.06872579856285348
+[2020-05-21T11:50:53.165] [INFO] price - Stock name: Sensex
+                    present val: 31017.11
+                    start val  : 31036.38
+                    current pro: 0.0066419367371689225
+                    total pro  : -0.062088426549747215
+[2020-05-21T11:51:13.260] [INFO] price - Stock name: Sensex
+                    present val: 31011.62
+                    start val  : 31036.38
+                    current pro: -0.011059147091493617
+                    total pro  : -0.07977734516719423
+[2020-05-21T11:51:33.488] [INFO] price - Stock name: Sensex
+                    present val: 31008.27
+                    start val  : 31036.38
+                    current pro: -0.021860354892217927
+                    total pro  : -0.09057112975160306
+[2020-05-21T11:51:53.753] [INFO] price - Stock name: Sensex
+                    present val: 31008.27
+                    start val  : 31036.38
+                    current pro: -0.021860354892217927
+                    total pro  : -0.09057112975160306
+[2020-05-21T11:52:16.125] [INFO] price - Stock name: Sensex
+                    present val: 31026.14
+                    start val  : 31036.38
+                    current pro: 0.03575683418211528
+                    total pro  : -0.032993538550570654
+[2020-05-21T11:52:33.509] [INFO] price - Stock name: Sensex
+                    present val: 31031.33
+                    start val  : 31036.38
+                    current pro: 0.05249064567041638
+                    total pro  : -0.016271227507844897
+[2020-05-21T11:52:53.692] [INFO] price - Stock name: Sensex
+                    present val: 31031.33
+                    start val  : 31036.38
+                    current pro: 0
+                    total pro  : -0.016271227507844897
+[2020-05-21T11:53:13.582] [INFO] price - Stock name: Sensex
+                    present val: 31033.35
+                    start val  : 31036.38
+                    current pro: 0.006509550186849221
+                    total pro  : -0.009762736504716315
+[2020-05-21T11:53:33.687] [INFO] price - Stock name: Sensex
+                    present val: 31031.60
+                    start val  : 31036.38
+                    current pro: 0.0008700883913025918
+                    total pro  : -0.015401280690603973
+[2020-05-21T11:53:53.646] [INFO] price - Stock name: Sensex
+                    present val: 31025.65
+                    start val  : 31036.38
+                    current pro: -0.01830408171354657
+                    total pro  : -0.03457233092261264
+[2020-05-21T11:54:13.738] [INFO] price - Stock name: Sensex
+                    present val: 31006.25
+                    start val  : 31036.38
+                    current pro: -0.08082154390418246
+                    total pro  : -0.09707962075474336
+[2020-05-21T20:10:18.317] [INFO] price - -------------------setinterval started------------------------------
+[2020-05-21T20:10:20.288] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:10:40.219] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:11:00.217] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:11:20.215] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:11:40.217] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:12:00.268] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:12:20.394] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:12:40.375] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:14:09.393] [INFO] price - -------------------setinterval started------------------------------
+[2020-05-21T20:14:10.717] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:14:29.432] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:14:49.428] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:15:09.442] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:15:29.448] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:15:49.438] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:16:09.457] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:16:29.460] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:16:49.464] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:17:09.458] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:17:29.447] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:17:49.447] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:18:09.456] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
+[2020-05-21T20:18:29.453] [INFO] price - Stock name: Sensex
+                    present val: 30932.90
+                    start val  : 30932.90
+                    current pro: 0
+                    total pro  : 0
